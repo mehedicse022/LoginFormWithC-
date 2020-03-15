@@ -1,0 +1,10 @@
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\bin\Debug\GHIT_LoginForm.exe.config
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\bin\Debug\GHIT_LoginForm.exe
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\bin\Debug\GHIT_LoginForm.pdb
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\obj\Debug\GHIT_LoginForm.csprojAssemblyReference.cache
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\obj\Debug\GHIT_LoginForm.Form1.resources
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\obj\Debug\GHIT_LoginForm.Properties.Resources.resources
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\obj\Debug\GHIT_LoginForm.csproj.GenerateResource.cache
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\obj\Debug\GHIT_LoginForm.exe
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\obj\Debug\GHIT_LoginForm.pdb
+C:\Users\mehedi\source\repos\GHIT_LoginForm\GHIT_LoginForm\obj\Debug\GHIT_LoginForm.Main.resources
